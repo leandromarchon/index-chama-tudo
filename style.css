@@ -1,0 +1,45 @@
+body{
+	background-color: #CCC;
+	margin: 0;
+	padding: 0;
+}
+
+#principal{
+	width: 950px;
+	margin: 0 auto;
+	margin-top: 10px;
+	background-color: #FFF;
+	font-family: arial, verdana, sans-serif;
+}
+
+#topo{
+	padding: 10px;
+}
+
+#menu{
+	background-color: #787878;
+	padding: 15px;
+	font-size: 14pt;
+	color: #FFF;
+}
+
+#menu a{
+	text-decoration: none;
+	color: #FFF;
+}
+
+#menu a:hover{
+	color: #FF0;
+}
+
+#conteudo{
+	min-height: 400px;
+	padding: 5px;
+}
+
+#rodape{
+	font-size: 8pt;
+	text-align: center;
+	padding: 1px;
+	border-top: 1px solid #CCC;
+}
